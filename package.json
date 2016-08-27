@@ -1,0 +1,22 @@
+{
+  "name": "mongo-scrape-homework-wk18",
+  "version": "1.0.0",
+  "description": "repo for week 18 homework,mongodb and scraping",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kittson/mongo-scrape-homework-wk18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kittson/mongo-scrape-homework-wk18/issues"
+  },
+  "homepage": "https://github.com/kittson/mongo-scrape-homework-wk18#readme"
+}
